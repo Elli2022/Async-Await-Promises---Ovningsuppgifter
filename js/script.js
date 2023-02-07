@@ -209,3 +209,8 @@ async function getChuckJoke({ category }) {
 }
 
 //_____________FETCH & ASYNC PUNK API______________
+
+// Punk API - https://punkapi.com/documentation/v2 
+// Låt en användare söka på öl genom att ange ett namn. Visa namn, bild och beskrivning för ett enda öl. 
+// Låt en användare ange vilken mat som ska passa till ölen och sök fram öl som passar. Visa namnet för alla öl i svaret.
+// Låt användaren välja ett datum och visa namnet på alla öl som har bryggts innan det datumet. 
